@@ -1,6 +1,6 @@
-# Repositorio de Pruebas en Dart
+# Pruebas en Dart.
 
-Este repositorio contiene proyectos y scripts básicos en **Dart** con el propósito de realizar pruebas, aprender la sintaxis del lenguaje y explorar sus características en un entorno de desarrollo local.
+Este repositorio contendrá proyectos y scripts básicos en **Dart** con el propósito de realizar pruebas, aprender la sintaxis del lenguaje y explorar sus características en un entorno de desarrollo local.
 
 ## Requisitos
 
