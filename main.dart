@@ -23,14 +23,14 @@
 
 // Operadores de valores nulos 
 
-void main() {
-  String? nombre; // Variable que puede ser nula
+// void main() {
+//   String? nombre; // Variable que puede ser nula
 
-  print(nombre ?? "Nombre no asignado");
+//   print(nombre ?? "Nombre no asignado");
 
-  // ??= asigna un valor solo si la variable es nula
-  nombre ??= "Juan";
-  print(nombre); // Ahora imprime "Juan"
+// ??= asigna un valor solo si la variable es nula
+//   nombre ??= "Juan";
+//   print(nombre); // Ahora imprime "Juan"
 
 
-}
+// }
