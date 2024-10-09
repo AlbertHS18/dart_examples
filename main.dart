@@ -82,4 +82,24 @@
 //   });
 // }
 
+// Operador this
+
+class Persona {
+  String nombre;
+  int edad;
+
+  
+  Persona(this.nombre, this.edad);
+
+ 
+  void mostrarInfo() {
+    print("Nombre: $nombre, Edad: $edad");
+  }
+}
+
+void main() {
+ 
+  Persona persona1 = Persona("Ana", 25);
+  persona1.mostrarInfo();
+}
 
