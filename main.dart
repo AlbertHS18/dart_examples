@@ -130,3 +130,19 @@
 //     ..mostrarInfo(); 
 // }
 
+// Iterable 
+
+// void main() {
+//   List<String> nombres = ["Ana", "Luis", "Carlos", "Beatriz"];
+
+  
+//   Iterable<String> nombresConA = nombres.where((nombre) => nombre.contains('a'));
+//   print(nombresConA); 
+
+ 
+//   Iterable<String> nombresMayusculas = nombres.map((nombre) => nombre.toUpperCase());
+//   print(nombresMayusculas); 
+
+
+//   print(nombres.length); // 4
+// }
