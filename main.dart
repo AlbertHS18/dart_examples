@@ -24,13 +24,41 @@
 // Operadores de valores nulos 
 
 // void main() {
-//   String? nombre; // Variable que puede ser nula
+//   String? nombre; 
 
 //   print(nombre ?? "Nombre no asignado");
 
-// ??= asigna un valor solo si la variable es nula
 //   nombre ??= "Juan";
-//   print(nombre); // Ahora imprime "Juan"
+//   print(nombre); 
 
 
 // }
+
+//  Estructuras de Colecciones.
+
+// Lista.
+
+// void main() {
+ 
+//   List<String> frutas = ["Manzana", "Banana", "Naranja"];
+  
+//   frutas.add("Uva"); 
+//   print(frutas); 
+
+  
+//   print("Primera fruta: ${frutas[0]}");
+
+
+//   frutas.remove("Banana");
+//   print(frutas); 
+
+
+//   for (var fruta in frutas) {
+//     print(fruta);
+//   }
+// }
+
+
+
+
+
