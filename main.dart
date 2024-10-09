@@ -84,22 +84,49 @@
 
 // Operador this
 
-class Persona {
-  String nombre;
-  int edad;
+// class Persona {
+//   String nombre;
+//   int edad;
 
   
-  Persona(this.nombre, this.edad);
+//   Persona(this.nombre, this.edad);
 
  
-  void mostrarInfo() {
-    print("Nombre: $nombre, Edad: $edad");
-  }
-}
+//   void mostrarInfo() {
+//     print("Nombre: $nombre, Edad: $edad");
+//   }
+// }
 
-void main() {
+// void main() {
  
-  Persona persona1 = Persona("Ana", 25);
-  persona1.mostrarInfo();
-}
+//   Persona persona1 = Persona("Ana", 25);
+//   persona1.mostrarInfo();
+// }
+
+
+// Cascades
+
+// class Persona {
+//   String nombre = "";
+//   int edad = 0;
+
+//   void actualizarNombre(String nuevoNombre) {
+//     nombre = nuevoNombre;
+//   }
+
+//   void actualizarEdad(int nuevaEdad) {
+//     edad = nuevaEdad;
+//   }
+
+//   void mostrarInfo() {
+//     print("Nombre: $nombre, Edad: $edad");
+//   }
+// }
+
+// void main() {
+//   Persona persona1 = Persona()
+//     ..actualizarNombre("Carlos")
+//     ..actualizarEdad(25)
+//     ..mostrarInfo(); 
+// }
 
