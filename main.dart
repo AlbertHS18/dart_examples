@@ -59,6 +59,27 @@
 // }
 
 
+//Map
 
+// void main() {
+//   Map<String, int> edades = {
+//     "Ana": 25,
+//     "Luis": 30,
+//     "Carlos": 20
+//   };
+
+
+//   print("Edad de Ana: ${edades['Ana']}");
+
+
+//   edades["Ana"] = 26;
+//   edades["Pedro"] = 22;
+//   print(edades); // {"Ana": 26, "Luis": 30, "Carlos": 20, "Pedro": 22}
+
+
+//   edades.forEach((clave, valor) {
+//     print("$clave tiene $valor años");
+//   });
+// }
 
 
